@@ -39,6 +39,19 @@ Offline STT is a Windows desktop application for recording audio and transcribin
 - **Database**: SQLite (rusqlite)
 - **Async**: Tokio
 
+<p align="center">
+  <img src="Capture.JPG" 
+       alt="login" 
+       width="900">
+</p>
+<hr>
+<p align="center">
+  <img src="Capture2.JPG" 
+       alt="login" 
+       width="900">
+</p>
+<hr>
+
 ### Project Structure
 ```text
 AutoSubs-App/
