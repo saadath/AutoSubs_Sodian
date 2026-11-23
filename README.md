@@ -11,6 +11,9 @@ A professional offline speech-to-text desktop application built on top of [tmoro
 ### Overview
 Offline STT is a Windows desktop application for recording audio and transcribing speech to text using local AI models. The application is designed to work offline for transcription and model inference.
 
+### Download
+- **Windows Installer**: [Offline-STT_1.0.0_x64-setup.exe](https://github.com/saadath/AutoSubs_Sodian/releases/download/v1.0.0/Offline-STT_1.0.0_x64-setup.exe)
+
 ### Key Features
 - **Audio Recording**: Select microphone, start/pause/resume/stop recording, live input level, WAV (PCM16) recording.
 - **File Transcription**: Transcribe existing audio/video files through the local transcription pipeline.
@@ -115,6 +118,9 @@ Output is generated under `AutoSubs-App/src-tauri/target/release/bundle/nsis/`.
 
 ### معرفی
 Offline STT یک اپلیکیشن دسکتاپ ویندوز برای ضبط صدا و تبدیل گفتار به متن با مدل‌های هوش مصنوعی محلی است. هدف این پروژه، ارائه یک تجربه آفلاین برای تبدیل گفتار به متن است.
+
+### دانلود
+- **نصب‌کننده ویندوز**: [Offline-STT_1.0.0_x64-setup.exe](https://github.com/saadath/AutoSubs_Sodian/releases/download/v1.0.0/Offline-STT_1.0.0_x64-setup.exe)
 
 ### قابلیت‌های اصلی
 - **ضبط صدا**: انتخاب میکروفون، شروع/توقف موقت/ادامه/توقف ضبط، نمایش سطح ورودی صدا، ذخیره WAV (PCM16).
